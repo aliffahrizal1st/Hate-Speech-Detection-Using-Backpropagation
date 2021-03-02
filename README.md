@@ -2,7 +2,7 @@
 
 This project was build when i was working on internship in middle of 2020. Although it was a first commit but this project is already done at that time.
 
-In this "Hate Speech Detection" model a.k.a Classification on Hate Speech, i was researching to create some model and compare the results between them, and this is the one of it. There were two class that i'm using in this project one is 'Hate Speech' and other is 'Non-Hate Speech'.
+In this "Hate Speech Detection" model a.k.a Classification on Hate Speech, i was tasked to research some machine learning model and compare the results between them, and this is the one of it. There were two class that i'm using in this project one is 'Hate Speech' and other is 'Non-Hate Speech'.
 
 It's all thanks to the researchers before me who already done working on some result that i can used for this research. Below are some of their repositories if you want to use them :
 - [Stopwords](https://github.com/louisowen6/NLP_bahasa_resources/blob/master/combined_stop_words.txt) - it was combined stopwords made by [louisowen](https://github.com/louisowen6)
