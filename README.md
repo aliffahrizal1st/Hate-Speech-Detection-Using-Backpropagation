@@ -10,6 +10,6 @@ It's all thanks to the researchers before me who already done working on some re
 - [Dataset](https://github.com/ialfina/id-hatespeech-detection) - Last but not least the dataset that i used was made by [ialfina](https://github.com/ialfina)
 
 Note :
-Sorry if I didn't attach the dataset and preprocessing files. I think it would be better if you get the dataset directly to the original owner. And for preprocessing files, because I always use those file in different nlp projects, so it's better not to attach them for your health.
+Sorry if I didn't attach the dataset and preprocessing files. I think it would be better if you get the dataset directly to the original owner. And for preprocessing files, because I always use those file in different nlp projects, so it's better not to attach them for your health. Almost forget for the last thing, in this project I almost 80% not using any library too, cause i want to stick with the math process in this model.
 
 Cheers!!
